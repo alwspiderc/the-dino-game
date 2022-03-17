@@ -5,7 +5,7 @@
 <br/>
 
 <p>if you want you can clone this project, just write in your terminal: </p>
-<p>git clone https://github.com/alwspiderc/dino-game.git.</p>
+<p>git clone https://github.com/alwspiderc/the-dino-game.git</p>
 <p>PLay Game: https://alwspiderc.github.io/the-dino-game/</p>
 
 <img src="img/demo.png">
